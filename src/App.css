@@ -1,0 +1,283 @@
+
+.nav-link{
+  color: #ffffff !important;
+  font-size: 20px;
+  
+}; 
+
+.nav-item input{
+  margin-right: 50px;
+}
+
+.nav-item{
+  position: relative !important;
+}
+
+.btn-group .btn{
+  font-size: 15px;
+  padding: 5px;
+  margin: 10px;
+  border-color: rgb(102, 93, 93) !important; 
+}
+
+.breadcrumb-item{
+  font-size: 18px;
+}
+
+.category .btn{
+  font-size: 14px !important;
+}
+
+.category .btn span{
+  line-height: 1.5;
+}
+
+.tag button{
+  font-size: 12x !important;
+  border: 1px solid #c3ccdb !important;
+  border-radius: 5%;
+}
+
+
+
+.nav-item i{
+  margin: 5px;
+}
+
+.nav-item input{
+  background-color: #3f4448;
+  border: 0ch;
+  color: #6e7275;
+}
+.nav-link{
+  font-size: 16px !important;
+}
+
+.navbar .container{
+  width: 77%;
+  height : 70px;
+}
+
+.Navigation-bottom .container{
+  width: 78%;
+}
+
+.reposity-content .container{
+  width: 75%;
+}
+
+.search-area{
+  padding: 16px 0;
+}
+
+
+.search-area input{
+  width: 30% !important;
+  font-size: 14px;
+  padding-left: 30px;
+}
+
+.search-area svg{
+  position: absolute;
+  margin-left: 20px; 
+  color: #c6cbd1 !important;
+  fill: currentColor;
+}
+
+.search-area label{
+  border: 1px #c7d1e2 solid;
+  background-color: #ffffff;
+  color: #5d6069;
+  border-radius: 5%;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.facebook-icon{
+  margin: 5px;
+  color: #c6cbd1 !important;
+  fill: currentColor;
+}
+
+.table-list-header{
+  height: 50px;
+  font-size: 14px;
+}
+
+.TableElement, .Status{
+  display: flex;
+  background-color: #ffffff;
+}
+
+.TableElement{
+  border: 1px #d7dfed ridge;
+  
+}
+
+
+.TableElement svg {
+  color: green !important;
+  fill: currentColor;
+  margin-top: .3rem !important;
+}
+
+
+
+.TableElement .Title {
+  font-size: 16px;
+  font-weight: 450;
+}
+
+.TableElement .Discription{
+  font-size: 12px;
+  font-weight: 100;
+  color:grey;
+}
+
+.TableElement .Element-body{
+  width: 70%;
+}
+
+.TableElement .fa-comment-alt {
+  font-size: 13px;
+}
+
+.pagination-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 600;
+  height: 100px;
+}
+
+
+.reposity-content .tip{
+  text-align: center;
+  height: 80px;
+  display: flex;
+  align-items: start;
+  font-size: 14px;
+}
+
+.footer .container{
+  display: flex;
+  justify-content: space-between;
+  height: 120px;
+  align-items: center;
+  width: 80%;
+}
+
+.footer ul{
+  list-style: none;
+  font-size: 12px;
+}
+
+.footer ul li{
+  margin: 0 5px;
+}
+
+.Navigation-head .navbar{
+  background: #24292e !important;
+}
+
+.text-white{
+  color: #ffffff !important;
+  fill: currentColor;
+}
+
+.text-grey{
+  color:grey !important;
+  fill: currentColor;
+  font-size: 12px !important;
+  box-sizing: border-box;
+}
+
+.Icon{
+  display: inline-block;
+  vertical-align: text-bottom;
+  font-size: 14px !important;
+  line-height: 1.5;
+  margin: 2px;
+}
+
+
+.category button .Icon{
+  color: grey !important;
+  fill: currentColor;
+}
+
+.tag button span, .tag button svg, .tag button{
+  font-size: 12px !important;
+  font-weight: 600;
+
+}
+
+.tag button svg{
+  margin: 0 0.2rem;
+
+}
+
+
+
+.nav-item .dropdown-menu{
+  position: absolute;
+  display: hidden;
+  top: 80% !important;
+}
+
+.nav-item .dropdown-menu ul{
+  padding: 20px 0;
+  font-size: 14px;
+  width: 300px;
+}
+
+.why-github:hover .why-github-dropdown{
+  display: block;
+}
+
+.nav-item:hover .nav-link{
+  color: #b2b4b7 !important;
+}
+
+.explore:hover .explore-dropdown{
+  display: block;
+}
+
+.pricing:hover .pricing-dropdown{
+  display: block;
+}
+
+.dropdown-item:hover{
+  color: #0368d6;
+}
+
+
+.Condition{
+  position: relative;
+}
+
+.Condition .btn{
+  font-size: 14px;
+  color: grey;
+}
+
+.Condition .dropdown-menu {
+  left: auto !important;
+  right: 0 !important;
+  width: 300px !important;
+}
+.Condition .dropdown-menu .dropdown-divider{
+  margin: 0.1rem 0;
+}
+.dropdown-label, .dropdown-input{
+  padding: 5px 15px;
+  font-size: 12px;
+  line-height: 1.5;
+  
+}
+
+.dropdown-input input{
+  width: 100% !important;
+  height: 30px !important;
+}
